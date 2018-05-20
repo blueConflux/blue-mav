@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: blue.io.events.EventTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.018 sec <<< FAILURE!
+testTwo(blue.io.events.EventTest)  Time elapsed: 0.012 sec  <<< ERROR!
+java.lang.AssertionError
+	at blue.io.events.EventTest.testTwo(EventTest.java:19)
+
