@@ -4,6 +4,7 @@ public class SpicerApi {
 	
 	public void process(String command) {
 		System.out.println(command);
+		System.out.println("***");
 	}
 
 }
