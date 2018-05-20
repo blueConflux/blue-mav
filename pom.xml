@@ -6,4 +6,13 @@
   <packaging>pom</packaging>
   <name>blue-mav</name>
   <description>blue-mav</description>
+  
+  <modules>
+    <module>blue-core</module>
+    <module>blue-io</module>
+    <module>blue-app</module>
+  </modules>
   </project>
+  
+  
+ 
